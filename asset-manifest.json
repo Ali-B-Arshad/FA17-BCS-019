@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/FA17-BCS-019/static/css/main.1438434d.chunk.css",
+    "main.js": "/FA17-BCS-019/static/js/main.34e6b9d1.chunk.js",
+    "main.js.map": "/FA17-BCS-019/static/js/main.34e6b9d1.chunk.js.map",
+    "runtime-main.js": "/FA17-BCS-019/static/js/runtime-main.539a0902.js",
+    "runtime-main.js.map": "/FA17-BCS-019/static/js/runtime-main.539a0902.js.map",
+    "static/js/2.9b9e3b00.chunk.js": "/FA17-BCS-019/static/js/2.9b9e3b00.chunk.js",
+    "static/js/2.9b9e3b00.chunk.js.map": "/FA17-BCS-019/static/js/2.9b9e3b00.chunk.js.map",
+    "index.html": "/FA17-BCS-019/index.html",
+    "precache-manifest.2ee07331f17a76e3d0238cc20998ccbf.js": "/FA17-BCS-019/precache-manifest.2ee07331f17a76e3d0238cc20998ccbf.js",
+    "service-worker.js": "/FA17-BCS-019/service-worker.js",
+    "static/css/main.1438434d.chunk.css.map": "/FA17-BCS-019/static/css/main.1438434d.chunk.css.map",
+    "static/js/2.9b9e3b00.chunk.js.LICENSE.txt": "/FA17-BCS-019/static/js/2.9b9e3b00.chunk.js.LICENSE.txt",
+    "static/media/messi.jpg": "/FA17-BCS-019/static/media/messi.c904aa19.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.539a0902.js",
+    "static/js/2.9b9e3b00.chunk.js",
+    "static/css/main.1438434d.chunk.css",
+    "static/js/main.34e6b9d1.chunk.js"
+  ]
+}
